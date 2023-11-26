@@ -6,6 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-DC&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-DC&layout=compact&theme=radical">
+</div>
+
 <div style="display: inline_block;"><br>
 <a href="https://github.com/Gabriel-DC?tab=repositories&q=&type=&language=javascript&sort="><img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a> - 
 <a href="https://github.com/Gabriel-DC?tab=repositories&q=&type=&language=typescript&sort="><img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a> -
